@@ -1,0 +1,12 @@
+{
+    "app": {
+        "port": 443,
+        "url": "<YOUR-HOST>"
+    },
+    "database": {
+        "path": "db.json"
+    },
+    "telegram": {
+        "token": ""
+    }
+}
